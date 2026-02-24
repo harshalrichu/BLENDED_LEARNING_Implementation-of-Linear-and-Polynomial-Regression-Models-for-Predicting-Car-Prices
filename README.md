@@ -7,7 +7,6 @@ To write a program to predict car prices using Linear Regression and Polynomial 
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
-
 ## Algorithm
 1. Load the dataset using pandas.
 2. Select input features and target variable (price).
